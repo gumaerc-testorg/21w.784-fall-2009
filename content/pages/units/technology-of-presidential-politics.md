@@ -1,7 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
+ocw_type: ''
 parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
@@ -28,11 +28,11 @@ Hoff, Philip. _Consumer Electronics for Engineers_. Cambridge, MA: Cambridge Uni
 Assignments (Student Work)
 --------------------------
 
-Pointing Fingers 2008 \[Political Advertisements\] ([PDF]({{< baseurl >}}/resources/mit21w_784f09_pointing_fin))
+Pointing Fingers 2008 \[Political Advertisements\] ({{% resource_link 4fb7218b-d776-adcd-fc1e-fcdf500ac8f8 "PDF" %}})
 
-Campaign Ad INF 2009 ([PDF]({{< baseurl >}}/resources/mit21w_784f09_campaign_ad))
+Campaign Ad INF 2009 ({{% resource_link a9d683ad-c36e-6bb9-24da-e9f06c03cdc5 "PDF" %}})
 
-Campaign Ad INF 2009 ([NI]({{< baseurl >}}/resources/campaign_ad_inf_2009-ni))
+Campaign Ad INF 2009 ({{% resource_link 5176952e-b6c3-0619-7ab6-9f1af7ae8134 "NI" %}})
 
 Resources
 ---------

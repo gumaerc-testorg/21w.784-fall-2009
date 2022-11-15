@@ -1,7 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
+ocw_type: ''
 title: Units
 uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
 ---
@@ -29,7 +29,7 @@ DESCRIPTION
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Broadcast media and the Rwanda Genocide]({{< baseurl >}}/pages/units/broadcast-media-and-the-rwanda-genocide)
+{{% resource_link 0c1c9ed2-bbbd-cca0-3564-5b40a4781d57 "Broadcast media and the Rwanda Genocide" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 This unit looks at the way local radio broadcasts were used to exacerbate the Rwandan Genocide of 1994, and how a blog was used to commemorate the 10 year anniversary of the 100-day event, one post at a time.
@@ -41,7 +41,7 @@ This unit looks at the way local radio broadcasts were used to exacerbate the Rw
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[MARKET GARDEN and the transmedia Band of Brothers]({{< baseurl >}}/pages/units/market-garden-and-the-transmedia-band-of-brothers)
+{{% resource_link 98c76c32-3862-2285-a1d3-b9efc59257ec "MARKET GARDEN and the transmedia Band of Brothers" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 For some reason, this World War II operation and one of its principal military units have become a multimedia touchstone, appearing as document-based historical fictions in print, small- and large-screen adaptations, video games and photographs. This unit examines how historical material migrates from medium to medium.
@@ -53,7 +53,7 @@ For some reason, this World War II operation and one of its principal military u
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Cuban Missile Crisis officespace]({{< baseurl >}}/pages/units/cuban-missile-crisis-officespace)
+{{% resource_link 0bdee3af-0718-f1b0-779c-9297462a88e9 "Cuban Missile Crisis officespace" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 This unit contrasts document and documentary around the U.S. President's office during the days of the Cuban Missile Crisis. Students focus on the technology used to produce the period documents and recordings, and the technologies used to produce the contemporary archives and documentaries that represent the period.
@@ -65,7 +65,7 @@ This unit contrasts document and documentary around the U.S. President's office 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Cambodian Genocide data]({{< baseurl >}}/pages/units/cambodian-genocide-data)
+{{% resource_link 8b200b00-d85b-9dd2-18b9-a12b930c975f "Cambodian Genocide data" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 This unit looks at the way databases are being used to aggregate and organize traces of evidence for tribunals relating to the 1975-1979 genocide in Cambodia.
@@ -77,7 +77,7 @@ This unit looks at the way databases are being used to aggregate and organize tr
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Trojan War and the remains of poetic memory]({{< baseurl >}}/pages/units/trojan-war-and-the-remains-of-poetic-memory)
+{{% resource_link 0433670c-3bbb-3084-1154-4ee9125a333f "Trojan War and the remains of poetic memory" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 In what is generally the first unit of this course, students read a translation and a contemporary reworking of the central books of the Iliad so as to get a sense of what details get remembered in oral and print cultures, and the mechanisms by which that memory exists.
@@ -89,7 +89,7 @@ In what is generally the first unit of this course, students read a translation 
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Mob mentality: 4chan vs. Scientology]({{< baseurl >}}/pages/units/mob-mentality-4chan-vs.-scientology)
+{{% resource_link 75c4048c-692f-1d47-e6b5-064724e81eaf "Mob mentality: 4chan vs. Scientology" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 On-line bulletin boards are a dominant text-based forum for knowledge sharing and the aggregation of communities of practice. This unit looks at one borderline instantiation of a bulletin board system, and the protest that board organized through a filter that asks what gets remembered and how are on-line identities composed.
@@ -113,7 +113,7 @@ Two new media — mass-produced woodblock prints and photography and the laws th
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Iran and "The Twitter revolution"]({{< baseurl >}}/pages/units/iran-and-201cthe-twitter-revolution201d)
+{{% resource_link cddbfabd-f459-d730-d78c-25f54897e73b "Iran and \"The Twitter revolution\"" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 More remarkable than the election protests in Tehran in June 2009 was the embrace of a popular myth that those demonstrations were the result of a novel micro blogging platform named Twitter. This unit examines the technology, hype, psychology and history of "The Twitter Revolution."
@@ -125,7 +125,7 @@ More remarkable than the election protests in Tehran in June 2009 was the embrac
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Personal data storage / total information awareness]({{< baseurl >}}/pages/units/personal-data-storage-total-information-awareness)
+{{% resource_link 790992cd-c687-843a-5f6e-a742fc356634 "Personal data storage / total information awareness" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Learning how to scrape or extract their own or research subject's publically available on-line data while reading about American government and military programs that do the same exposes students to the presence, technology, and history of data.
@@ -137,7 +137,7 @@ Learning how to scrape or extract their own or research subject's publically ava
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[First generation console games: limited affordance simulations]({{< baseurl >}}/pages/units/first-generation-console-games-limited-affordance-simulations)
+{{% resource_link 3b3de33c-bb72-ca3c-578e-b54049e71112 "First generation console games: limited affordance simulations" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 War games can be read as simulations of conflict. By examining games about conflict and the platforms that enable them, students get a sense of the history of contemporary gaming and simulation, and the relationship between abstraction and constraint. This unit looks at war games on the Odyssey, Intellivision, and Atari.
@@ -173,7 +173,7 @@ Soldiers deployed to Iraq and Afghanistan from 2003 and 2001 onwards were connec
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Technology of presidential politics]({{< baseurl >}}/pages/units/technology-of-presidential-politics)
+{{% resource_link 58f79256-781b-452f-ed00-0626d6f96468 "Technology of presidential politics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Televised advertising for presidential campaigns offer an evocative combination of medium, rhetoric, and history. By reading the texts, technologies and arguments of political advertisements from Eisenhower to Obama, students become aware of the theater of mass-media.
@@ -185,7 +185,7 @@ Televised advertising for presidential campaigns offer an evocative combination 
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Adversarial media and the dialectical method]({{< baseurl >}}/pages/units/adversarial-media-and-the-dialectical-method)
+{{% resource_link 99906893-c19d-c409-ef7b-7e20e5ae76d7 "Adversarial media and the dialectical method" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Oppositional argument is older than the current political television talk shows would have us believe. In this unit, students read about of dialectical argument, and ask why news and political television-theater gravitated so strongly to that mode of difference resolution.
@@ -221,7 +221,7 @@ Reporting from the border of Mexico and America on the human costs of the drug t
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[World War II in propaganda and simulation]({{< baseurl >}}/pages/units/world-war-ii-in-propaganda-and-simulation)
+{{% resource_link ed2faf10-ec56-b73e-9194-d90834fb5375 "World War II in propaganda and simulation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Images and testimony from the battles of World War II have become documentary cornerstones for games set during those events. However, are these games documentaries or simulations and what would be the difference? Examining the primary source material of journalistic and propagandistic production and the primary material related to game production helps students trace the way new media documentation becomes digital media fiction.

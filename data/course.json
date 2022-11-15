@@ -43,7 +43,9 @@
   },
   "course_title": "Becoming Digital: Writing about Media Change",
   "course_description": "\"Becoming Digital\" traces the change in practice, theory and possibility as mechanical and chemical media are augmented or supplanted by digital media. These changes will be grounded in a semester length study of \"reports from the front.\" These reports, found and introduced by students throughout the semester, are the material produced by and about soldiers and civilians on the battlefield from the introduction of wet photography during the Crimean and Civil Wars to contemporary digital content posted daily to Web 2.0 sites from areas such as Iraq and Afghanistan and possibly even the games and simulations they've inspired. Students will work through the ethical, aesthetic, technical and cultural problems raised by the primary content and secondary readings in three papers, a group project written with Inform 7, a presentation, and frequent discussion.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.784",
   "course_image_thumbnail": {
@@ -54,6 +56,7 @@
     "Projects with Examples",
     "Written Assignments"
   ],
-  "site_uid": "ed504bb1-033f-4578-afaf-c772589889da",
+  "site_uid": "5a69dc4b-38f9-42bf-9555-9664e576f6cd",
+  "short_id": "21w.784-fall-2009",
   "title": "Course Metadata"
 }

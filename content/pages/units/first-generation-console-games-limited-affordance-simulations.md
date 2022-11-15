@@ -1,7 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
+ocw_type: ''
 parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
@@ -26,7 +26,7 @@ Winnicott, D. W. "Playing: A Theoretical Statement." In _Playing and Reality_. N
 Resources
 ---------
 
-Mattel Electronics, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Intellivision Service Manual (Model 2609) (PDF - 1.6MB)](http://data.manualslib.com/pdf4/82/8126/812558-mattel/intellivision_2609.pdf?20136c0a58a771c45beecb8ff3108938).
+Mattel Electronics, [Intellivision Service Manual (Model 2609) (PDF - 1.6MB)](http://data.manualslib.com/pdf4/82/8126/812558-mattel/intellivision_2609.pdf?20136c0a58a771c45beecb8ff3108938).
 
 PXL Creative, [Intel 8048](http://www.cpushack.net/chippics/Intel/8x48/IntelC8748_2.html), The CPU Shack.  
 (Specs and features of Intel's most common chip)

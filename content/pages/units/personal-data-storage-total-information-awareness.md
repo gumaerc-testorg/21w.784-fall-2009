@@ -1,7 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
+ocw_type: ''
 parent_title: Units
 parent_type: CourseSection
 parent_uid: 3ffb031b-f15f-cafc-6032-a9f4a8908b25
@@ -34,7 +34,7 @@ Resources
 
 [Overview of the Information Awareness Office](http://www.fas.org/irp/agency/dod/poindexter.html), Defense Advanced Research Projects Agency. (Poindexter's 2002 remarks on the DARPA TIA project)
 
-Programming with Punched Cards, Dale Fisk. (Dale Fisk on a programmer's perspective on first encountering punch cards (2005)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://www.columbia.edu/acis/history/fisk.pdf))
+Programming with Punched Cards, Dale Fisk. (Dale Fisk on a programmer's perspective on first encountering punch cards (2005)) ([PDF - 1.6MB](http://www.columbia.edu/acis/history/fisk.pdf))
 
 [On Data Ownership in a Networked World](http://www.bitquill.net/blog/?p=7)
 
