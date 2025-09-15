@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work:  a reaction paper on Anonymous, Scientology,
   Project Chronology, and play.'
-file: /courses/21w-784-becoming-digital-writing-about-media-change-fall-2009/ce3f1cf978df70d91f5ba6b33975367d_MIT21W_784F09_Anonymous_pr.pdf
+file: /ol-ocw-studio-app/courses/21w-784-becoming-digital-writing-about-media-change-fall-2009/ce3f1cf978df70d91f5ba6b33975367d_MIT21W_784F09_Anonymous_pr.pdf
+file_size: 140116
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
